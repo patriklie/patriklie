@@ -2,7 +2,7 @@
 I'm an up and coming programmer from Norway looking for the next opportunity to get more experience! 
 I have taken front end engineering courses and love working with React, Redux and Javascript. But i also have experience in working with backend technologies like Node, MongoDB, Mongoose, and Express. Take a look at some of my projects and reach out if you want to collaborate! ⭐🧙‍♂️
 
-- 📫 How to reach me: patrik.lie@hotmail.com
+> 📫 How to reach me: patrik.lie@hotmail.com
 
 <h3>When I code, I rely on</h3>
 <p>
