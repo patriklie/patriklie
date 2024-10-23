@@ -1,8 +1,8 @@
 ## Hi there, I'm Patrik Bystrøm Lie 👋
-I'm a up and coming programmer from Norway looking for the next opportunity to get more experience! 
+I'm an up and coming programmer from Norway looking for the next opportunity to get more experience! 
 I have taken front end engineering courses and love working with React, Redux and Javascript. But i also have experience in working with backend technologies like Node, MongoDB, Mongoose, and Express. Take a look at some of my projects and reach out if you want to collaborate! ⭐🧙‍♂️
 
-
+- 📫 How to reach me: patrik.lie@hotmail.com
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -19,11 +19,8 @@ I have taken front end engineering courses and love working with React, Redux an
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-- 📫 How to reach me: patrik.lie@hotmail.com
 
-> Courses :
-- Web Developer Bootcamp - Colt Steele 
-- Front End Engineer - Codecademy
-- Javasript, CSS, HTML - Sololearn.com
+
+> Courses - Web Developer Bootcamp - Colt Steele - Front End Engineer - Codecademy- Javasript, CSS, HTML - Sololearn.com
 
 ![](https://komarev.com/ghpvc/?username=patriklie&color=fb4362)
