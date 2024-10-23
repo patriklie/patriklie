@@ -23,6 +23,7 @@ I have taken front end engineering courses and love working with React, Redux an
 
 > Courses :
 - Web Developer Bootcamp - Colt Steele 
-- Front End Engineer course - Codecademy
+- Front End Engineer - Codecademy
+- Javasript, CSS, HTML - Sololearn.com
 
 ![](https://komarev.com/ghpvc/?username=patriklie&color=fb4362)
