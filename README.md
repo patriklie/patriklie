@@ -1,5 +1,5 @@
 ## Hi there, I'm Patrik Bystrøm Lie 👋
-I'm an up-and-coming programmer from Norway seeking opportunities to gain more experience! I've completed front-end engineering courses and enjoy working with React, Redux, and JavaScript. Additionally, I have experience with back-end technologies like Node, MongoDB, Mongoose, and Express. Check out some of my projects, and feel free to reach out if you're interested in collaborating! ⭐🧙‍♂️
+I'm an up-and-coming programmer from Norway seeking opportunities to gain more experience in programming! I've completed front-end engineering courses and enjoy working with React, Redux, and JavaScript. Additionally, I have experience with back-end technologies like Node, MongoDB, Mongoose, and Express. Check out some of my projects, and feel free to reach out if you're interested in collaborating! ⭐🧙‍♂️
 
 > 📫 How to reach me: patrik.lie@hotmail.com
 
