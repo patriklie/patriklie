@@ -19,6 +19,8 @@ I have taken front end engineering courses and love working with React, Redux an
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-> Courses</br>Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>Javasript, CSS, HTML - Sololearn.com
+
+> **Courses**</br>Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>Javasript, CSS, HTML - Sololearn.com
+
 
 ![](https://komarev.com/ghpvc/?username=patriklie&color=fb4362)
