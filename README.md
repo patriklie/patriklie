@@ -4,7 +4,7 @@ I'm an aspiring programmer from Norway seeking opportunities to gain more experi
 ### 📫 How to reach me:
 > patrik.lie@hotmail.com
 
-### 💻 Technologies i use:
+### 💻 Technologies I use:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -23,7 +23,7 @@ I'm an aspiring programmer from Norway seeking opportunities to gain more experi
 </p>
 
 **Courses**
-> Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>Javasript, CSS, HTML - Sololearn.com
+> Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>JavaScript, CSS, HTML - Sololearn.com
 
 
   
