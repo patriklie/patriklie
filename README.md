@@ -4,7 +4,7 @@ I'm an aspiring programmer from Norway seeking opportunities to gain more experi
 ## 📫 How to reach me:
 > patrik.lie@hotmail.com
 
-<h3>When I code, I rely on</h3>
+## Technologies i use:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
