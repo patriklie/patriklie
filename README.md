@@ -1,10 +1,10 @@
 # Hi there, I'm Patrik Bystrøm Lie 👋
 I'm an aspiring programmer from Norway seeking opportunities to gain more experience in programming! I've completed front-end engineering courses and enjoy working with React, Redux, and JavaScript. Additionally, I have experience with back-end technologies like Node, MongoDB, Mongoose, and Express. Check out some of my projects, and feel free to reach out if you're interested in collaborating! ⭐🧙‍♂️
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 > patrik.lie@hotmail.com
 
-## Technologies i use:
+### 💻 Technologies i use:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
