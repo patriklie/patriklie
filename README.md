@@ -22,7 +22,7 @@ I'm an aspiring programmer from Norway seeking opportunities to gain more experi
   <img alt="Express" src="https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-**Courses**
+### Courses 📖
 > Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>JavaScript, CSS, HTML - Sololearn.com
 
 
