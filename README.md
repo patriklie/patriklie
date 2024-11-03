@@ -3,10 +3,10 @@ I'm an aspiring programmer from Norway seeking opportunities to gain more experi
 
 Check out some of my projects, and feel free to reach out if you're interested in collaborating! ⭐🧙‍♂️
 
-### 📫 How to reach me:
+### 📫 How to reach me
 > patrik.lie@hotmail.com
 
-### 💻 Technologies I use:
+### 💻 Technologies I use
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -24,10 +24,10 @@ Check out some of my projects, and feel free to reach out if you're interested i
   <img alt="Express" src="https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-### Courses 📖
+### 📖 Courses 
 > Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>JavaScript, CSS, HTML - Sololearn.com
 
-### 🚀 Future Aspirations:
+### 🚀 Future Aspirations
 I’m eager to expand my skill set and dive into new technologies. My next focus will be on Socket.IO to enhance real-time communication in applications. Additionally, I plan to explore React Native to develop mobile applications and broaden my programming expertise.
   
   
