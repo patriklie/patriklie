@@ -25,7 +25,7 @@ Check out some of my projects, and feel free to reach out if you're interested i
 </p>
 
 ### 📖 Courses 
-> Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>JavaScript, CSS, HTML - Sololearn.com
+> Web Developer Bootcamp - Colt Steele</br>Front End Engineer - Codecademy</br>JavaScript, CSS, HTML - Sololearn.com</br>Learn SQL - Codecademy
 
 ### 🚀 Future Aspirations
 I’m eager to expand my skill set and dive into new technologies. My next focus will be on Socket.IO to enhance real-time communication in applications. Additionally, I plan to explore React Native to develop mobile applications and broaden my programming expertise.
