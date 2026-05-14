@@ -36,4 +36,4 @@ Git · npm -->
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=patriklie&color=fb4362)
+<!-- ![](https://komarev.com/ghpvc/?username=patriklie&color=fb4362) -->
