@@ -4,7 +4,9 @@ Fullstack-utvikler med bakgrunn fra helsesektoren og erfaring fra både prosjekt
 
 Se mitt siste prosjekt **[HelseBooking](https://github.com/patriklie/HelseBooking)**
 
-![](/docs/bilder/iPhone_17_Mockup_1_left_rounded.png)
+<div align="center">
+<img src="docs/bilder/iPhone_17_Mockup_1_left_rounded.png" width="500" />
+</div>
 
 HelseBooking en fullstack bookingapplikasjon for helsetjenester hvor pasienter kan finne og booke time hos behandlere. Repo har god dokumentasjon og live demo, ta en titt 🤓
 
