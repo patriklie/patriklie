@@ -1,6 +1,6 @@
 # Hei, jeg er Patrik 👋
 
-Fullstack-utvikler med bakgrunn fra helsesektoren og erfaring fra både prosjektledelse og utvikling av brukerorienterte systemer.
+Fullstack-utvikler med bakgrunn fra helseteknologi. Opptatt av brukeropplevelse like mye som koden på baksiden.
 
 Se mitt siste prosjekt **[HelseBooking](https://github.com/patriklie/HelseBooking)**
 
