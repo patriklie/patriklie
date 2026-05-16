@@ -2,7 +2,7 @@
 
 Jeg heter Patrik og er en **fullstack-utvikler** med bakgrunn fra helseteknologi og grafisk design. Jeg er opptatt av gode brukeropplevelser like mye som ren og solid kode.
 
-Ta gjern et titt på mitt siste prosjekt **[HelseBooking](https://github.com/patriklie/HelseBooking)**
+Ta gjerne en titt på mitt siste prosjekt **[HelseBooking](https://github.com/patriklie/HelseBooking)**
 
 HelseBooking er en fullstack bookingapplikasjon for helsetjenester hvor pasienter kan finne og booke time hos behandlere. Repoet har god dokumentasjon og en live demo, ta gjerne en titt.
 
