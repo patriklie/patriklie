@@ -1,6 +1,6 @@
 # Hei!
 
-Jeg heter Patrik og er en **fullstack-utvikler** med bakgrunn fra helseteknologi. Jeg er opptatt av brukeropplevelsen like mye som koden bak.
+Jeg heter Patrik og er en **fullstack-utvikler** med bakgrunn fra helseteknologi og grafisk design. Jeg er opptatt av gode brukeropplevelser like mye som ren og solid kode.
 
 Ta gjern et titt på mitt siste prosjekt **[HelseBooking](https://github.com/patriklie/HelseBooking)**
 
@@ -10,11 +10,8 @@ HelseBooking er en fullstack bookingapplikasjon for helsetjenester hvor pasiente
 <img src="docs/bilder/iPhone_17_Mockup_1_left_rounded.png" width="500" />
 </div>
 
-
 ## Kontakt
 > patrik.lie@hotmail.com
-
-
 
 ## Teknologier
 
