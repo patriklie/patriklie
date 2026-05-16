@@ -1,22 +1,22 @@
-# Hei, jeg er Patrik 👋
+# Hei!
 
-Fullstack-utvikler med bakgrunn fra helseteknologi. Opptatt av brukeropplevelse like mye som koden bak.
+Jeg heter Patrik og er en **fullstack-utvikler** med bakgrunn fra helseteknologi. Jeg er opptatt av brukeropplevelsen like mye som koden bak.
 
-Se mitt siste prosjekt **[HelseBooking](https://github.com/patriklie/HelseBooking)**
+Ta gjern et titt på mitt siste prosjekt **[HelseBooking](https://github.com/patriklie/HelseBooking)**
 
-HelseBooking er en fullstack bookingapplikasjon for helsetjenester hvor pasienter kan finne og booke time hos behandlere. Repoet har god dokumentasjon og en live demo, ta gjerne en titt 🤓
+HelseBooking er en fullstack bookingapplikasjon for helsetjenester hvor pasienter kan finne og booke time hos behandlere. Repoet har god dokumentasjon og en live demo, ta gjerne en titt.
 
 <div align="center">
 <img src="docs/bilder/iPhone_17_Mockup_1_left_rounded.png" width="500" />
 </div>
 
 
-## 📫 Kontakt
+## Kontakt
 > patrik.lie@hotmail.com
 
 
 
-## 💻 Teknologier
+## Teknologier
 
 <!-- ### Frontend
 React · JavaScript · Redux · HTML · CSS
